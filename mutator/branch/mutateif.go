@@ -4,8 +4,8 @@ import (
 	"go/ast"
 	"go/types"
 
-	"github.com/zimmski/go-mutesting/astutil"
-	"github.com/zimmski/go-mutesting/mutator"
+	"github.com/buzyka/go-mutesting/astutil"
+	"github.com/buzyka/go-mutesting/mutator"
 )
 
 func init() {
